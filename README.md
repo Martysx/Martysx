@@ -2,6 +2,7 @@
     🎈-21 anos 
     🏠-Piraquara PR
     📚-Formação: Análise e Desenvolvimento de Sistema, Assistente Administrativo
+    🎓-Estudando GTI-Gestão da Tecnologia da Informação na IFPR-Institudo Federal do Párana 
 
 <div align="center">
   <a href="https://github.com/Martysx">
