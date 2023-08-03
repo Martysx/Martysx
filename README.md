@@ -14,7 +14,7 @@
   <img align="center" alt="Marte-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marte-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marte-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Marte-Pt" height="30" width="40" src="https://icongr.am/devicon/python-original.svg">
+  <img align="center" alt="Marte-Pt" height="20" width="40" src="https://icongr.am/devicon/python-original.svg">
   <img align="right" alt="Marte-pic" height="150" style="border radius:50px; "src="https://cdn.discordapp.com/attachments/755701025784201277/1053345530727645234/natsu.gif">
 </div>
 
